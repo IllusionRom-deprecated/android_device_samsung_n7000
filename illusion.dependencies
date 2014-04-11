@@ -1,19 +1,14 @@
 [
     {
-        "remote":      "ill",
         "repository":  "android_device_samsung_galaxys2-common",
-        "target_path": "device/samsung/galaxys2-common",
-        "revision":    "illusion-4.4"
+        "target_path": "device/samsung/galaxys2-common"
     },
     {
-        "remote":      "ill",
         "repository":  "android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412"
     },
     {
-        "remote":      "gh",
-        "repository":  "CyanogenMod/android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode",
-        "revision":    "cm-11.0"
+        "repository":  "android_platform_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode"
     }
 ]
