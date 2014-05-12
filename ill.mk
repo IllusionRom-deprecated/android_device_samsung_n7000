@@ -25,7 +25,7 @@ $(call inherit-product, device/samsung/n7000/full_n7000.mk)
 
 # bootanimation
 PRODUCT_COPY_FILES += \
-        vendor/illusion/bootanimation/Illusion800x800.zip:system/media/bootanimation.zip
+        vendor/illusion/bootanimation/800x1280.zip:system/media/bootanimation.zip
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := n7000
